@@ -1,0 +1,30 @@
+
+.header{
+    background-color: #808080;
+    display: flex;
+    justify-content: space-between;
+    font-style: italic;
+    
+}
+p{
+    
+font-size:x-large;
+    text-align: center;
+    color: #050b64;
+
+}
+.middle{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+*{
+    font-style: oblique;
+}
+
+
+.footer{
+    display: flex;
+justify-content: flex-end;
+    
+}
